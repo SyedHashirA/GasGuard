@@ -1,8 +1,8 @@
-# GasGuard-The-smart-gas-leakage-detector
+# GasGuard
 
 An ESP32-based domestic LPG leakage detector with active air sampling, adaptive auto-calibration, and IoT monitoring via Blynk.
 
-🔍 Project Overview
+**🔍 Project Overview**
 
 This project is an ESP32-based LPG (Liquefied Petroleum Gas) leakage detector designed specifically for domestic homes. Unlike off-the-shelf detectors that use a fixed hard-coded threshold, this system:
 
