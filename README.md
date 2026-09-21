@@ -696,4 +696,21 @@ MIT License — see [LICENSE](./LICENSE) for details.
 
 ---
 
+---
+
+## 📜 License
+
+This project is released under the **MIT License**.
+See [LICENSE](./LICENSE) for details.
+
+## ⚠️ Disclaimer (India)
+
+This is a **personal / research project** and is **not** a BIS-certified
+life-safety device. Under Indian regulations (including recent Maharashtra
+government directives), buildings may require BIS-certified gas detection
+systems with automatic shut-off.
+
+See [DISCLAIMER.md](./DISCLAIMER.md) for full details before building,
+using, or distributing this project in India.
+
 *Last updated: 2026-09-21*
