@@ -1,4 +1,4 @@
-# 🛡️ Smart Gas Leakage Detection System
+# 🛡️ GasGuard - Smart Gas Leakage Detection System
 
 ### *An ESP32-based domestic LPG leakage detector with active air sampling, adaptive auto-calibration, and IoT monitoring via Blynk.*
 
