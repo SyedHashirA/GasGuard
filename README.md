@@ -700,7 +700,7 @@ MIT License — see [LICENSE](./LICENSE) for details.
 
 <img width="800" height="634" alt="WhatsApp Image 2026-09-21 at 23 13 02" src="https://github.com/user-attachments/assets/663de70c-bad3-4de2-962b-c7d37d4c5206" />
 
-<img width="690" height="60" alt="WhatsApp Image 2026-09-21 at 23 19 39" src="https://github.com/user-attachments/assets/981b93ed-26b6-4126-934f-3f2bf4b93682" />
+<img width="690" height="660" alt="WhatsApp Image 2026-09-21 at 23 19 39" src="https://github.com/user-attachments/assets/981b93ed-26b6-4126-934f-3f2bf4b93682" />
 
 ---
 
