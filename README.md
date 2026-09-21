@@ -445,8 +445,6 @@ if (gasValue <= (baselineValue + sensitivityMargin / 2)) deactivateAlarm();
 
 The buzzer silences, LED turns off. No user intervention needed.
 
-**📷 *[Placeholder: Video/GIF of buzzer + servo alarm in action]***
-
 ---
 ---
 
@@ -483,7 +481,7 @@ The Blynk app provides **remote monitoring and control**.
 └─────────────────────────────────────┘
 ```
 
-<img width="350" height="510" alt="WhatsApp Image 2026-09-21 at 22 32 08" src="https://github.com/user-attachments/assets/bacd91ea-0ef6-4191-a916-3f2ce340dd7d" />
+<img width="350" height="550" alt="WhatsApp Image 2026-09-21 at 22 32 08" src="https://github.com/user-attachments/assets/bacd91ea-0ef6-4191-a916-3f2ce340dd7d" />
 
 ---
 ---
@@ -648,10 +646,6 @@ Tested in **three different homes** with different:
 - Background VOCs (cooking, cleaning)
 
 The auto-calibration adapted correctly in all cases, and no false alarms occurred after the sensitivity was tuned.
-
-**📷 *[Placeholder: Photo of sensor response graph]***
-
-**📷 *[Placeholder: Photo of test setup with lighter]***
 
 ---
 ---
