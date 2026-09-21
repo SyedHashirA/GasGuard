@@ -292,7 +292,8 @@ void finishCalibration() {
 
 This gives the user **clear confirmation** that the device is in calibration mode and should not be disturbed.
 
-**📷 *[Placeholder: Screenshot of Blynk app showing "CALIBRATING" label]***
+<img width="1080" height="2118" alt="WhatsApp Image 2026-09-21 at 22 32 08" src="https://github.com/user-attachments/assets/4f5a0c91-a5e3-4a58-a46d-8a0c972b5420" />
+
 
 ---
 ---
@@ -326,7 +327,9 @@ BLYNK_WRITE(V12) {
 
 The threshold updates **instantly** — no reboot required.
 
-**📷 *[Placeholder: Screenshot of Blynk sensitivity slider]***
+<img width="336" height="72" alt="SensitivityAdjustment" src="https://github.com/user-attachments/assets/dce29108-d9b9-43e6-8235-dad03853d1b4" />
+
+
 
 ---
 ---
@@ -362,10 +365,6 @@ The fan is **not** pointed directly at the sensor. A sheet of material sits betw
 ```
 
 A small gap in the sheet is essential — a fully sealed chamber creates a dead air pocket and slows detection.
-
-**📷 *[Placeholder: Close-up photo showing the sheet separating fan and sensor]***
-
-**📷 *[Placeholder: Diagram of airflow path]***
 
 ---
 ---
@@ -445,7 +444,7 @@ When gas drops below the hysteresis point:
 if (gasValue <= (baselineValue + sensitivityMargin / 2)) deactivateAlarm();
 ```
 
-The buzzer silences, servo returns to 0°, LED turns off. No user intervention needed.
+The buzzer silences, LED turns off. No user intervention needed.
 
 **📷 *[Placeholder: Video/GIF of buzzer + servo alarm in action]***
 
