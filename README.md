@@ -164,7 +164,8 @@ It is available as a **hardware fallback** if you ever want a second, purely har
         └─────────────────────┘
 ```
 
-**📷 *[Placeholder: Photo of the sensor + fan + sheet assembly]***
+<img width="720" height="854" alt="image" src="https://github.com/user-attachments/assets/01fe195e-6919-4b89-a093-2a5bcb026d2a" />
+
 
 ---
 ---
