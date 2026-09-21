@@ -164,7 +164,7 @@ It is available as a **hardware fallback** if you ever want a second, purely har
         └─────────────────────┘
 ```
 
-<img width="720" height="854" alt="image" src="https://github.com/user-attachments/assets/01fe195e-6919-4b89-a093-2a5bcb026d2a" />
+<img width="350" height="454" alt="image" src="https://github.com/user-attachments/assets/01fe195e-6919-4b89-a093-2a5bcb026d2a" />
 
 
 ---
@@ -189,10 +189,6 @@ It is available as a **hardware fallback** if you ever want a second, purely har
 
 - **ESP32 onboard 5V regulator** can typically handle the fan (~200 mA) + servo (peak ~500 mA) + buzzers (~30 mA each).
 - If you experience brownouts, power the **fan and servo from a separate 5V supply** with a shared ground.
-
-**📷 *[Placeholder: Fritzing-style wiring diagram]***
-
-**📷 *[Placeholder: Real photo of breadboard/perfboard assembly]***
 
 ---
 ---
