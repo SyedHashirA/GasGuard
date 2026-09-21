@@ -292,8 +292,7 @@ void finishCalibration() {
 
 This gives the user **clear confirmation** that the device is in calibration mode and should not be disturbed.
 
-<img width="1080" height="2118" alt="WhatsApp Image 2026-09-21 at 22 32 08" src="https://github.com/user-attachments/assets/4f5a0c91-a5e3-4a58-a46d-8a0c972b5420" />
-
+<img width="317" height="75" alt="Calibratiing" src="https://github.com/user-attachments/assets/6f0138f3-ebbc-4510-8e27-f3ea6300a732" />
 
 ---
 ---
@@ -484,7 +483,7 @@ The Blynk app provides **remote monitoring and control**.
 └─────────────────────────────────────┘
 ```
 
-**📷 *[Placeholder: Screenshot of full Blynk dashboard]***
+<img width="350" height="450" alt="WhatsApp Image 2026-09-21 at 22 32 08" src="https://github.com/user-attachments/assets/bacd91ea-0ef6-4191-a916-3f2ce340dd7d" />
 
 **📷 *[Placeholder: Screenshot of Blynk during alarm state]***
 
