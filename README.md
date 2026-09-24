@@ -60,7 +60,7 @@ This project is an **ESP32-based LPG (Liquefied Petroleum Gas) leakage detector*
 
 ### Intended Use
 
-The system is intended to be a **sellable consumer product**, not just a hobby prototype. Every design decision — from the fan placement to the calibration routine — was made with real-world deployment in mind.
+While this is a personal, educational project and not a certified commercial product, it was designed with real-world deployment in mind. Every design decision—from the fan placement to the calibration routine—was made to explore the challenges of building reliable hardware for domestic environments.
 
 ---
 ---
