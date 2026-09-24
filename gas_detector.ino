@@ -14,7 +14,7 @@
  * ------------------------------------------------------------
  *  Author : Syed Hashir Ahmed
  *  License: MIT
- *  Repo   : https://github.com/SyedHashirA/GasGuard---The-smart-gas-leakage-detector
+ *  Repo   : https://github.com/SyedHashirA
  * ============================================================
  */
 
